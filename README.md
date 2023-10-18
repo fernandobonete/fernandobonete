@@ -1,4 +1,4 @@
--meu nome é fernandob
+-meu nome é fernando
 -@fernando
 (
 estou estudando no {alura}
