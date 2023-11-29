@@ -1,4 +1,3 @@
 -meu nome é fernando
--@fernando
-(
-estou estudando no {alura}
+estou estudando no {alura
+insta:@ernandoh2429
